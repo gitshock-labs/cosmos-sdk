@@ -1,0 +1,12 @@
+{
+	"body": {
+		"messages": [
+			{
+				"@type": "/cosmos.bank.v1beta1.MsgSend",
+				"from_address": "cosmos1r23nc0nsa49wsq6jtgqh896nr3mk07klhvu6f4",
+				"to_address": "cosmos1r23nc0nsa49wsq6jtgqh896nr3mk07klhvu6f4",
+				"amount": [{ "denom": "stake", "amount": "-1" }]
+			}
+		]
+	}
+}
